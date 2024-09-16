@@ -42,4 +42,4 @@ def record_text():
 # Start the continuous listening
 if __name__ == "__main__":
     record_text()
-#Nabil is a poopoohead
+#Nabil is a poopoohead (Youssef is very unprofessional)
